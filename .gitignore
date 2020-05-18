@@ -1,0 +1,6 @@
+
+.hg/
+.hgignore
+KGUI-Normal/KGUI-Normal.userprefs
+KGUI-Normal/Temp/
+KGUI-Normal/obj/
